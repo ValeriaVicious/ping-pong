@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - RightWall
+  - LeftWall
+  - Ball
+  - RacketRight
+  - LeftRacket
   layers:
   - Default
   - TransparentFX
