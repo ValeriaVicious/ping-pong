@@ -12,10 +12,10 @@
 
 По классике жанра оформлены: главное меню и меню паузы.
 
+Скриншоты:
 ![понг меню](https://user-images.githubusercontent.com/59263802/121495578-4f131100-ca0c-11eb-9393-753c48d53b06.gif)
 ![Game](https://user-images.githubusercontent.com/59263802/121495506-3efb3180-ca0c-11eb-9d3a-1ec6db41b58c.png)
 ![MainMenu](https://user-images.githubusercontent.com/59263802/121495446-34d93300-ca0c-11eb-8f5a-35fe8eb671c4.png)
 ![Pause](https://user-images.githubusercontent.com/59263802/121495455-360a6000-ca0c-11eb-8e3b-3ac8cc6cad9c.png)
-
 
 Поиграть в билд можно в разделе Releases.
