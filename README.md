@@ -12,7 +12,7 @@
 
 ![бешеный мяч](https://user-images.githubusercontent.com/59263802/121495673-6651fe80-ca0c-11eb-85ae-82f054824948.gif)
 
-По классике жанра оформлены: главное меню и меню паузы.
+Скриншоты:
 
 ![Game](https://user-images.githubusercontent.com/59263802/121495506-3efb3180-ca0c-11eb-9d3a-1ec6db41b58c.png)
 ![MainMenu](https://user-images.githubusercontent.com/59263802/121495446-34d93300-ca0c-11eb-8f5a-35fe8eb671c4.png)
